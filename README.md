@@ -1,1 +1,1 @@
-# index.html
+status.foxie.cool
